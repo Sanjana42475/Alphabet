@@ -1,0 +1,456 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.container{
+    height: auto;
+    width:60%;
+    margin: 5px auto;
+ 
+    
+}
+
+#main{
+   height: 50px;
+    width: 100%;
+    margin:  auto;
+    border: 1px solid black;
+    border-radius: 5px;
+   background-color:blue;
+    text-align: center;
+   color: white
+    
+   
+   
+}
+
+.border{
+    height: auto;
+    width: 100%;
+    border: 1px solid black;
+    background-color:rgb(228, 151, 164);
+    border-radius: 5px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box1{
+    height: 15%;
+    width:20%;
+    margin: 2px left;
+    border: 1px solid black;
+    margin: 5px auto;
+    background-image: url('https://img.freepik.com/free-photo/front-view-fresh-red-apples-ripe-mellow-fruits-white-desk-fruit-color-tree-fresh-plant-red_140725-110203.jpg?uid=R183501707&ga=GA1.1.368417123.1735046450&semt=ais_incoming');
+    background-size: cover;
+   padding : 10px;
+    background-repeat: no-repeat;
+    background-position: center;
+   
+
+   
+}
+
+.latter{
+    font-size: 90px;
+    text-align: center;
+    text-decoration: bold;
+    opacity: 0.5; 
+    color: rgb(5, 69, 247);
+
+}
+
+p{
+    text-align: center;
+    font-size: 20px;
+}
+
+.box2{
+    height: 15%;
+    width:20%;
+    margin: 2px left;
+    border: 1px solid black;
+    margin: 5px auto;
+    background-image: url('https://elctoys.qa/cdn/shop/products/215510638.png?v=1675752904');
+    background-size: cover;
+   padding : 10px;
+    background-repeat: no-repeat;
+    background-position: center;
+   
+
+   
+}
+
+
+.box3{
+    height: 15%;
+    width:20%;
+    margin: 2px left;
+    border: 1px solid black;
+    margin: 5px auto;
+    background-image: url('https://www.cats.org.uk/media/13136/220325case013.jpg?width=500&height=333.49609375');
+    background-size: cover;
+   padding : 10px;
+    background-repeat: no-repeat;
+    background-position: center;
+   
+
+   
+}
+
+
+.box4{
+    height: 15%;
+    width:20%;
+    margin: 2px left;
+    border: 1px solid black;
+    margin: 5px auto;
+    background-image: url('https://hips.hearstapps.com/hmg-prod/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=0.752xw:1.00xh;0.175xw,0&resize=1200:*');
+    background-size: cover;
+   padding : 10px;
+    background-repeat: no-repeat;
+    background-position: center;
+   
+
+   
+}
+
+
+.box5{
+    height: 15%;
+    width:20%;
+    margin: 2px left;
+    border: 1px solid black;
+    margin: 5px auto;
+    background-image: url('https://bsmedia.business-standard.com/_media/bs/img/article/2024-06/04/full/1717494477-7858.jpg');
+    background-size: cover;
+   padding : 10px;
+    background-repeat: no-repeat;
+    background-position: center;
+   
+
+   
+}
+
+
+.box6{
+    height: 15%;
+    width:20%;
+    margin: 2px left;
+    border: 1px solid black;
+    margin: 5px auto;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevNn1jms2m5-cFVeqhYvyyc0Kp948mr7DFg&s');
+    background-size: cover;
+   padding : 10px;
+    background-repeat: no-repeat;
+    background-position: center;
+   
+
+   
+}
+
+
+.box7{
+    height: 15%;
+    width:20%;
+    margin: 2px left;
+    border: 1px solid black;
+    margin: 5px auto;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4rV4L128kNxrYddFNoRG5a4IFz4Tgi3DNzA&s');
+    background-size: cover;
+   padding : 10px;
+    background-repeat: no-repeat;
+    background-position: center;
+   
+
+   
+}
+
+.box8{
+    height: 15%;
+    width:20%;
+    margin: 2px left;
+    border: 1px solid black;
+    margin: 5px auto;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvEd6Z5K0paqS-ATqtzYPLlZ3oiNyuLkSovQ&s');
+    background-size: cover;
+   padding : 10px;
+    background-repeat: no-repeat;
+    background-position: center;
+   
+
+   
+}
+
+.box9{
+    height: 15%;
+    width:20%;
+    margin: 2px left;
+    border: 1px solid black;
+    margin: 5px auto;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsC6pUApIu6N_0RTBq3RfzNzYiPxVyqEKB0Q&s');
+    background-size: cover;
+   padding : 10px;
+    background-repeat: no-repeat;
+    background-position: center;
+   
+
+   
+}
+
+.box10{
+    height: 15%;
+    width:20%;
+    margin: 2px left;
+    border: 1px solid black;
+    margin: 5px auto;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR2kjsszw8xxGrk-cQ5NRzP-LTKUMdSNC51Q&s');
+    background-size: cover;
+   padding : 10px;
+    background-repeat: no-repeat;
+    background-position: center;
+   
+
+   
+}
+
+.box11{
+    height: 15%;
+    width:20%;
+    margin: 2px left;
+    border: 1px solid black;
+    margin: 5px auto;
+    background-image: url('https://media.geeksforgeeks.org/wp-content/uploads/20240410181519/Kites-(traditional-flying-kites).png');
+    background-size: cover;
+   padding : 10px;
+    background-repeat: no-repeat;
+    background-position: center;
+   
+
+   
+}
+
+.box12{
+    height: 15%;
+    width:20%;
+    margin: 2px left;
+    border: 1px solid black;
+    margin: 5px auto;
+    background-image: url('https://safariavventura.com/wp-content/uploads/2018/02/leone-africano-2.jpg');
+    background-size: cover;
+   padding : 10px;
+    background-repeat: no-repeat;
+    background-position: center;
+   
+
+   
+}
+
+.box13{
+    height: 15%;
+    width:20%;
+    margin: 2px left;
+    border: 1px solid black;
+    margin: 5px auto;
+    background-image: url('https://c.ndtvimg.com/2023-07/qrtpmldg_baby-monkey-generic_625x300_28_July_23.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738');
+    background-size: cover;
+   padding : 10px;
+    background-repeat: no-repeat;
+    background-position: center;
+   
+
+   
+}
+
+.box14{
+    height: 15%;
+    width:20%;
+    margin: 2px left;
+    border: 1px solid black;
+    margin: 5px auto;
+    background-image: url('https://www.ecorootsfoundation.org/wp-content/uploads/2022/12/Ready-made-jute-fully-natural-275.jpeg');
+    background-size: cover;
+   padding : 10px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+   
+
+    .box15{
+        height: 15%;
+        width:20%;
+        margin: 2px left;
+        border: 1px solid black;
+        margin: 5px auto;
+        background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK_H77qrveJBGq8lTx2HGqe_CLmL9mnml_Uw&s');
+        background-size: cover;
+       padding : 10px;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+       
+    .box16{
+        height: 15%;
+        width:20%;
+        margin: 2px left;
+        border: 1px solid black;
+        margin: 5px auto;
+        background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uQjeFB2d8HutcBK16aO6UGQI296lIIzcoA&s');
+        background-size: cover;
+       padding : 10px;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+       
+
+
+    .box17{
+        height: 15%;
+        width:20%;
+        margin: 2px left;
+        border: 1px solid black;
+        margin: 5px auto;
+        background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSuVjV7uorrs4Gr3IzszuVEI1Xc5dkIfJlSw&s');
+        background-size: cover;
+       padding : 10px;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+       
+
+
+    .box18{
+        height: 15%;
+        width:20%;
+        margin: 2px left;
+        border: 1px solid black;
+        margin: 5px auto;
+        background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8nEEgE8t5jOl5cDCxyEqobdB2a58KRIXsiA&s');
+        background-size: cover;
+       padding : 10px;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+       
+
+
+    .box19{
+        height: 15%;
+        width:20%;
+        margin: 2px left;
+        border: 1px solid black;
+        margin: 5px auto;
+        background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRddjkWNzpSMwLbjiRaNku7kqzSxLdJnM5RoA&s');
+        background-size: cover;
+       padding : 10px;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+       
+
+
+    .box20{
+        height: 15%;
+        width:20%;
+        margin: 2px left;
+        border: 1px solid black;
+        margin: 5px auto;
+        background-image: url('https://www.polyeyes.com/dynamicresize.php?img=article_pic/3100.jpg&w=599&h=450&option=resize5');
+        background-size: cover;
+       padding : 10px;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+       
+
+
+    .box21{
+        height: 15%;
+        width:20%;
+        margin: 2px left;
+        border: 1px solid black;
+        margin: 5px auto;
+        background-image: url('https://www.jiomart.com/images/product/original/rvy8qd6oqa/axaka-rainy-season-use-hand-rainbow-umbrella-for-men-and-women-multicolour-product-images-orvy8qd6oqa-p602723706-1-202306261307.jpg?im=Resize=(420,420)');
+        background-size: cover;
+       padding : 10px;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+       
+
+    .box22{
+        height: 15%;
+        width:20%;
+        margin: 2px left;
+        border: 1px solid black;
+        margin: 5px auto;
+        background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJrlBWktJHLB8y2q8hZjPQyjh1kVMAZNSpXedglBKjSaxm0RvYvRzSy2hLvIPLtS4y58Q&usqp=CAU');
+        background-size: cover;
+       padding : 10px;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+       
+
+    .box23{
+        height: 15%;
+        width:20%;
+        margin: 2px left;
+        border: 1px solid black;
+        margin: 5px auto;
+        background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx1XOP4pRldlUv7vSvx3yLQ0xUankqHrAFGoDKj9k2JfgQg8vXEA7A_WsJfLlmoBFQUKI&usqp=CAU');
+        background-size: cover;
+       padding : 10px;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+       
+
+    .box24{
+        height: 15%;
+        width:20%;
+        margin: 2px left;
+        border: 1px solid black;
+        margin: 5px auto;
+        background-image: url('https://grewind.com/wp-content/uploads/2022/04/EA118659-0C13-4EF4-996D-4CADF02C4040.jpg');
+        background-size: cover;
+       padding : 10px;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+       
+
+    .box25{
+        height: 15%;
+        width:20%;
+        margin: 2px left;
+        border: 1px solid black;
+        margin: 5px auto;
+        background-image: url('https://indianetzone.wordpress.com/wp-content/uploads/2024/05/1_tlk1bwxiza5kamhebtxy0g.jpg');
+        background-size: cover;
+       padding : 10px;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    .box26{
+        height: 15%;
+        width:20%;
+        margin: 2px left;
+        border: 1px solid black;
+        margin: 5px auto;
+        background-image: url('https://upload.wikimedia.org/wikipedia/commons/6/60/Equus_quagga.jpg');
+        background-size: cover;
+       padding : 10px;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    
+       
+
+
+
+
+
+
